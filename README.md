@@ -4,7 +4,7 @@
   <img align="left" alt="Juan Quenga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/juanquenga/">
-  <img align="left" alt="Juan Quenga's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Juan Quenga's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 
 <br />
