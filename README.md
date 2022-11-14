@@ -28,5 +28,6 @@ Hi, I'm <a href="https://juanquenga.com/">Juan Quenga</a>, a Front End Developer
 
 <!-- PROJECTS:START -->
 - [ClashCrown: Track and view in-game stats/data from ClashRoyale](https://clashcrown.com)
+- [Herman's Modern Bakery: Saipan's First & Finest](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
 - [Metra: Largest LGBT entertainment & nightlife magazine in the greater Michigan area.](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
 <!-- PROJECTS:END -->
