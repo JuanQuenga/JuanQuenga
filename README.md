@@ -7,7 +7,7 @@
   <img align="left" alt="Juan Quenga | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://juanquenga.com">
-   <img aligh="left" alt="Juan Quenga | Portfolio" width="35px" src="https://cdn-icons-png.flaticon.com/512/3652/3652848.png" />
+   <img aligh="left" alt="Juan Quenga | Portfolio" width="30px" src="https://cdn-icons-png.flaticon.com/512/3110/3110955.png" />
 </a>
 
 <br />
