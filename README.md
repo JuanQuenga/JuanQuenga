@@ -28,4 +28,5 @@ Hi, I'm <a href="https://juanquenga.com/">Juan Quenga</a>, a Front End Developer
 
 <!-- PROJECTS:START -->
 - [ClashCrown: Track and view in-game stats/data from ClashRoyale](https://clashcrown.com)
+- [Metra: Largest LGBT entertainment & nightlife magazine in the greater Michigan area.](https://clashcrown.com)
 <!-- PROJECTS:END -->
