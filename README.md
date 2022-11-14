@@ -1,14 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-<br />
-
 <a href="https://twitter.com/quengajuan">
   <img align="left" alt="Juan Quenga | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
 <a href="https://www.linkedin.com/in/juanquenga/">
   <img align="left" alt="Juan Quenga's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
+
+<br />
+<br />
 
 Hi, I'm <a href="https://juanquenga.com/">Juan Quenga</a>, a Front End Developer 🚀.
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500" height="320" />
