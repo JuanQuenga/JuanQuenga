@@ -34,7 +34,7 @@ Hi, I'm <a href="https://juanquenga.com/">Juan Quenga</a>, a Front End Developer
 - [JuanQuenga: Developer Portfolio](https://juanquenga.com)
 - [ClashCrown: Stat Tracker/Viewer](https://clashcrown.com)
 - [Herman's Modern Bakery: Bakery Website](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
-- [ModMail UI: Dashboard plugin for kyb3r/modmail](https://clashcrown.com)
+- [ModMail Dashboard: Dashboard plugin for Dragory/modmailbot](https://clashcrown.com)
 - [KaizenCustoms: ECommerse Store](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
 - [Metra: Magazine Website](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
 <!-- PROJECTS:END -->
