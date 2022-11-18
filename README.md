@@ -32,8 +32,9 @@ Hi, I'm <a href="https://juanquenga.com/">Juan Quenga</a>, a Front End Developer
 
 <!-- PROJECTS:START -->
 - [JuanQuenga: Developer Portfolio](https://juanquenga.com)
-- [ClashCrown: Track and view in-game stats/data from ClashRoyale](https://clashcrown.com)
-- [Herman's Modern Bakery: Saipan's First & Finest](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
-- [KaizenCustoms: 3D Printing ECommerse Store](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
-- [Metra: Largest LGBT entertainment & nightlife magazine in the greater Michigan area.](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
+- [ClashCrown: Stat Tracker/Viewer](https://clashcrown.com)
+- [Herman's Modern Bakery: Bakery Website](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
+- [ModMail UI: Dashboard plugin for kyb3r/modmail](https://clashcrown.com)
+- [KaizenCustoms: ECommerse Store](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
+- [Metra: Magazine Website](https://github.com/JuanQuenga/JuanQuenga/edit/main/README.md)
 <!-- PROJECTS:END -->
