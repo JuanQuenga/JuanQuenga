@@ -1,10 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/quengajuan">
+<a href="https://twitter.com/juan_quenga">
   <img align="left" alt="Juan Quenga | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
-</a>
-<a href="https://www.linkedin.com/in/juanquenga/">
-  <img align="left" alt="Juan Quenga | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://juanquenga.com">
    <img aligh="left" alt="Juan Quenga | Portfolio" width="30px" src="https://cdn-icons-png.flaticon.com/512/3110/3110955.png" />
