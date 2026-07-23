@@ -2,7 +2,7 @@
 
 Self-taught software engineer based in Detroit, MI.
 
-**[juanquenga.com](https://juanquenga.com)** · [@quengajuan](https://twitter.com/quengajuan)
+**[juanquenga.com](https://juanquenga.com)** · [@juan_quenga](https://x.com/juan_quenga)
 
 ## Selected work
 
