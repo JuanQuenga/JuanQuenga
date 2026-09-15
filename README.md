@@ -2,13 +2,10 @@
 
 Self-taught software engineer based in Detroit, MI.
 
-**[juanquenga.com](https://juanquenga.com)** · [@juan_quenga](https://x.com/juan_quenga)
+[juanquenga.com](https://juanquenga.com)
 
 ## Selected work
 
-- [Volt](https://github.com/JuanQuenga/Volt) — scanner-first product capture for electronics resale
-- [Cortex](https://github.com/JuanQuenga/Cortex) — local-first media server with an embedded agent
-- [Herman's Modern Bakery](https://github.com/JuanQuenga/HermansModernBakery) — bakery storefront
-- [ClashCrown](https://github.com/JuanQuenga/ClashCrown) — Clash Royale companion tools
-- [BrawlStars](https://github.com/JuanQuenga/BrawlStars) — Brawl Stars stats and profile lookup
-- [CivicNote](https://github.com/JuanQuenga/CivicNote) — civic research hub for local topics
+- [Volt](https://github.com/JuanQuenga/Volt): a Chrome extension and iPhone scanner for electronics resale.
+- [StatsConnect](https://github.com/JuanQuenga/statsconnect): connected game statistics for Brawl Stars and Clash Royale.
+- [Cortex](https://github.com/JuanQuenga/Cortex): a local-first media server with an embedded agent.
